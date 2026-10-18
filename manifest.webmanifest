@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Attendance Buddy",
+  "short_name": "Attendance",
+  "description": "Track class attendance, subjects, tasks, and plan your bunk days.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E8EFF1",
+  "theme_color": "#0E2A33",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
